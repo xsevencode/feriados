@@ -1,0 +1,1182 @@
+tipo      	data       	descricao                          	uf 	municipio                          	codigo ibge
+NACIONAL  	01/01/2021 	CONFRATERNIZAÇÃO UNIVERSAL         	   	                                   	          
+NACIONAL  	16/02/2021 	CARNAVAL                           	   	                                   	          
+NACIONAL  	02/04/2021 	PAIXÃO DE CRISTO                   	   	                                   	          
+NACIONAL  	21/04/2021 	TIRADENTES                         	   	                                   	          
+NACIONAL  	01/05/2021 	DIA DO TRABALHO                    	   	                                   	          
+NACIONAL  	03/06/2021 	CORPUS CHRISTI                     	   	                                   	          
+NACIONAL  	07/09/2021 	INDEPENDÊNCIA DO BRASIL            	   	                                   	          
+NACIONAL  	12/10/2021 	DIA DE NOSSA SENHORA APARECIDA     	   	                                   	          
+NACIONAL  	02/11/2021 	FINADOS                            	   	                                   	          
+NACIONAL  	15/11/2021 	PROCLAMAÇÃO DA REPÚBLICA           	   	                                   	          
+NACIONAL  	25/12/2021 	NATAL                              	   	                                   	          
+ESTADUAL  	16/09/2021 	FERIADO ESTADUAL                   	AL 	                                   	          
+ESTADUAL  	02/07/2021 	FERIADO ESTADUAL                   	BA 	                                   	          
+ESTADUAL  	25/03/2021 	FERIADO ESTADUAL                   	CE 	                                   	          
+ESTADUAL  	28/07/2021 	FERIADO ESTADUAL                   	MA 	                                   	          
+ESTADUAL  	05/08/2021 	FERIADO ESTADUAL                   	PB 	                                   	          
+ESTADUAL  	06/03/2021 	FERIADO ESTADUAL                   	PE 	                                   	          
+ESTADUAL  	19/10/2021 	FERIADO ESTADUAL                   	PI 	                                   	          
+ESTADUAL  	03/10/2021 	FERIADO ESTADUAL                   	RN 	                                   	          
+ESTADUAL  	04/01/2021 	FERIADO ESTADUAL                   	RO 	                                   	          
+ESTADUAL  	11/08/2021 	FERIADO ESTADUAL                   	SC 	                                   	          
+ESTADUAL  	08/07/2021 	FERIADO ESTADUAL                   	SE 	                                   	          
+ESTADUAL  	09/07/2021 	REVOLUÇÃO DE 1932                  	SP 	                                   	          
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	ARAPIRACA                          	2700300   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	AL 	ARAPIRACA                          	2700300   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	AL 	BOCA DA MATA                       	2701001   
+MUNICIPAL 	20/07/2021 	FERIADO RELIGIOSO                  	AL 	BOCA DA MATA                       	2701001   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	CAJUEIRO                           	2701308   
+MUNICIPAL 	23/06/2021 	FERIADO RELIGIOSO                  	AL 	CORURIPE                           	2702306   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	CORURIPE                           	2702306   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	AL 	DELMIRO GOUVEIA                    	2702405   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	AL 	IGREJA NOVA                        	2703205   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	IGREJA NOVA                        	2703205   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	AL 	LIMOEIRO DE ANADIA                 	2704203   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	AL 	LIMOEIRO DE ANADIA                 	2704203   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	LIMOEIRO DE ANADIA                 	2704203   
+MUNICIPAL 	27/08/2021 	FERIADO RELIGIOSO                  	AL 	MACEIO                             	2704302   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	MACEIO                             	2704302   
+MUNICIPAL 	15/01/2021 	FERIADO RELIGIOSO                  	AL 	MARIBONDO                          	2704807   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	AL 	MARIBONDO                          	2704807   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	MARIBONDO                          	2704807   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	AL 	OURO BRANCO                        	2706109   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	AL 	OURO BRANCO                        	2706109   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	OURO BRANCO                        	2706109   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	PALMEIRA DOS INDIOS                	2706307   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	AL 	PASSO DE CAMARAGIBE                	2706505   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	AL 	PASSO DE CAMARAGIBE                	2706505   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	PASSO DE CAMARAGIBE                	2706505   
+MUNICIPAL 	07/10/2021 	FERIADO RELIGIOSO                  	AL 	PENEDO                             	2706703   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	PENEDO                             	2706703   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	PILAR                              	2706901   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	PILAR                              	2706901   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	PIRANHAS                           	2707107   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	AL 	PORTO CALVO                        	2707305   
+MUNICIPAL 	21/11/2021 	FERIADO RELIGIOSO                  	AL 	PORTO CALVO                        	2707305   
+MUNICIPAL 	01/04/2021 	FERIADO RELIGIOSO                  	AL 	RIO LARGO                          	2707701   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	RIO LARGO                          	2707701   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	AL 	SANTANA DO IPANEMA                 	2708006   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	AL 	SAO MIGUEL DOS CAMPOS              	2708600   
+MUNICIPAL 	18/12/2021 	FERIADO RELIGIOSO                  	AL 	SAO MIGUEL DOS CAMPOS              	2708600   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	AL 	SAO SEBASTIAO                      	2708808   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	AL 	SAO SEBASTIAO                      	2708808   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	SAO SEBASTIAO                      	2708808   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	UNIAO DOS PALMARES                 	2709301   
+MUNICIPAL 	22/07/2021 	FERIADO RELIGIOSO                  	AL 	UNIAO DOS PALMARES                 	2709301   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	AL 	UNIAO DOS PALMARES                 	2709301   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	AL 	VICOSA                             	2709400   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	AM 	LABREA                             	1302405   
+MUNICIPAL 	15/09/2021 	FERIADO MUNICIPAL                  	AM 	MANICORE                           	1302702   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	AM 	SANTO ANTONIO DO ICA               	1303700   
+MUNICIPAL 	01/02/2021 	DIA DO MUNICÍPIO                   	AM 	TABATINGA                          	1304062   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	AM 	TABATINGA                          	1304062   
+MUNICIPAL 	15/10/2021 	FERIADO RELIGIOSO                  	AM 	TEFE                               	1304203   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	AM 	TEFE                               	1304203   
+MUNICIPAL 	26/04/2021 	FERIADO RELIGIOSO                  	BA 	AMARGOSA                           	2901007   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	ANAGE                              	2901205   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	BARRA                              	2902708   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	BARRA DA ESTIVA                    	2902807   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	BA 	BARRA DA ESTIVA                    	2902807   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	BARREIRAS                          	2903201   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	BA 	BOM JESUS DA LAPA                  	2903904   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	BA 	BOM JESUS DA LAPA                  	2903904   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	BOQUIRA                            	2904100   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	BA 	BRUMADO                            	2904605   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	BRUMADO                            	2904605   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	BA 	BRUMADO                            	2904605   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	CACULE                             	2905008   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	BA 	CACULE                             	2905008   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	CAETITE                            	2905206   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	BA 	CAETITE                            	2905206   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	BA 	CAMAMU                             	2905800   
+MUNICIPAL 	18/08/2021 	FERIADO RELIGIOSO                  	BA 	CAMAMU                             	2905800   
+MUNICIPAL 	31/12/2021 	FERIADO RELIGIOSO                  	BA 	CAMAMU                             	2905800   
+MUNICIPAL 	27/11/2021 	FERIADO RELIGIOSO                  	BA 	CANDIDO SALES                      	2906709   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	CARINHANHA                         	2907103   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	BA 	CASTRO ALVES                       	2907301   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	CONDEUBA                           	2908705   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	BA 	CONDEUBA                           	2908705   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	CRUZ DAS ALMAS                     	2909802   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	BA 	CRUZ DAS ALMAS                     	2909802   
+MUNICIPAL 	31/05/2021 	FERIADO RELIGIOSO                  	BA 	ENCRUZILHADA                       	2910404   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	GUANAMBI                           	2911709   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	BA 	ITAMBE                             	2915809   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	BA 	ITAPETINGA                         	2916401   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	ITORORO                            	2917102   
+MUNICIPAL 	30/11/2021 	FERIADO RELIGIOSO                  	BA 	ITUBERA                            	2917300   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	BA 	ITUBERA                            	2917300   
+MUNICIPAL 	28/01/2021 	FERIADO RELIGIOSO                  	BA 	LIVRAMENTO DE NOSSA SENHORA        	2919504   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	BA 	LIVRAMENTO DE NOSSA SENHORA        	2919504   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	BA 	LIVRAMENTO DE NOSSA SENHORA        	2919504   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	BA 	MURITIBA                           	2922300   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	BA 	MUTUIPE                            	2922409   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	BA 	NAZARE                             	2922508   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	NAZARE                             	2922508   
+MUNICIPAL 	16/08/2021 	FERIADO MUNICIPAL                  	BA 	NAZARE                             	2922508   
+MUNICIPAL 	28/06/2021 	FERIADO RELIGIOSO                  	BA 	OLIVEIRA DOS BREJINHOS             	2923209   
+MUNICIPAL 	08/09/2021 	FERIADO MUNICIPAL                  	BA 	OLIVEIRA DOS BREJINHOS             	2923209   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	BA 	PALMAS DE MONTE ALTO               	2923407   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	BA 	PARAMIRIM                          	2923605   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	PARAMIRIM                          	2923605   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	PARATINGA                          	2923704   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	BA 	PARATINGA                          	2923704   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	BA 	PLANALTO                           	2925006   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	PLANALTO                           	2925006   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	POCOES                             	2925105   
+MUNICIPAL 	25/01/2021 	FERIADO MUNICIPAL                  	BA 	POJUCA                             	2925204   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	BA 	POJUCA                             	2925204   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	BA 	PRESIDENTE TANCREDO NEVES          	2925758   
+MUNICIPAL 	31/05/2021 	FERIADO RELIGIOSO                  	BA 	RIACHO DE SANTANA                  	2926400   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	BA 	SANTA MARIA DA VITORIA             	2928109   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	BA 	SANTA RITA DE CASSIA               	2928406   
+MUNICIPAL 	01/11/2021 	FERIADO RELIGIOSO                  	BA 	SANTA RITA DE CASSIA               	2928406   
+MUNICIPAL 	18/05/2021 	FERIADO RELIGIOSO                  	BA 	SANTO ANTONIO DE JESUS             	2928703   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	BA 	SANTO ANTONIO DE JESUS             	2928703   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	SANTO ANTONIO DE JESUS             	2928703   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	SAO FELIX                          	2929008   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	BA 	SAO FELIX DO CORIBE                	2929057   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	VALENCA                            	2932903   
+MUNICIPAL 	08/11/2021 	FERIADO RELIGIOSO                  	BA 	VALENCA                            	2932903   
+MUNICIPAL 	14/09/2021 	FERIADO RELIGIOSO                  	BA 	VERA CRUZ                          	2933208   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	VITORIA DA CONQUISTA               	2933307   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	BA 	VITORIA DA CONQUISTA               	2933307   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	BA 	XIQUE-XIQUE                        	2933604   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	BA 	XIQUE-XIQUE                        	2933604   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	ACOPIARA                           	2300309   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	CE 	ACOPIARA                           	2300309   
+MUNICIPAL 	15/07/2021 	FERIADO RELIGIOSO                  	CE 	ACOPIARA                           	2300309   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	CE 	ARACOIABA                          	2301208   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	ARARIPE                            	2301307   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	CE 	ARARIPE                            	2301307   
+MUNICIPAL 	05/11/2021 	FERIADO RELIGIOSO                  	CE 	ARARIPE                            	2301307   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	CE 	ASSARE                             	2301604   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	CE 	AURORA                             	2301703   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	CE 	BARBALHA                           	2301901   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	CE 	BARBALHA                           	2301901   
+MUNICIPAL 	07/04/2021 	FERIADO RELIGIOSO                  	CE 	BARRO                              	2302008   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	CE 	BARRO                              	2302008   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	CE 	BREJO SANTO                        	2302503   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	CAMPOS SALES                       	2302701   
+MUNICIPAL 	01/09/2021 	FERIADO RELIGIOSO                  	CE 	CAMPOS SALES                       	2302701   
+MUNICIPAL 	24/03/2021 	FERIADO RELIGIOSO                  	CE 	CARIRIACU                          	2303204   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	CE 	CARIRIACU                          	2303204   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	CE 	CEDRO                              	2303808   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	CRATO                              	2304202   
+MUNICIPAL 	01/09/2021 	FERIADO RELIGIOSO                  	CE 	CRATO                              	2304202   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	CE 	ICO                                	2305407   
+MUNICIPAL 	18/12/2021 	FERIADO RELIGIOSO                  	CE 	ICO                                	2305407   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	IGUATU                             	2305506   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	CE 	IGUATU                             	2305506   
+MUNICIPAL 	24/03/2021 	FERIADO RELIGIOSO                  	CE 	JUAZEIRO DO NORTE                  	2307304   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	CE 	JUAZEIRO DO NORTE                  	2307304   
+MUNICIPAL 	18/07/2021 	FERIADO RELIGIOSO                  	CE 	MAURITI                            	2308104   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	CE 	MAURITI                            	2308104   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	CE 	MILAGRES                           	2308302   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	MISSAO VELHA                       	2308401   
+MUNICIPAL 	27/06/2021 	FERIADO RELIGIOSO                  	CE 	MOMBACA                            	2308500   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	CE 	MOMBACA                            	2308500   
+MUNICIPAL 	22/08/2021 	FERIADO RELIGIOSO                  	CE 	OROS                               	2309508   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	CE 	PEDRA BRANCA                       	2310506   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	CE 	PEDRA BRANCA                       	2310506   
+MUNICIPAL 	13/11/2021 	FERIADO RELIGIOSO                  	CE 	PEDRA BRANCA                       	2310506   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	CE 	SENADOR POMPEU                     	2312700   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	CE 	SENADOR POMPEU                     	2312700   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	ES 	AFONSO CLAUDIO                     	3200102   
+MUNICIPAL 	11/02/2021 	FERIADO RELIGIOSO                  	ES 	AFONSO CLAUDIO                     	3200102   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	AFONSO CLAUDIO                     	3200102   
+MUNICIPAL 	27/09/2021 	FERIADO RELIGIOSO                  	ES 	AFONSO CLAUDIO                     	3200102   
+MUNICIPAL 	02/04/2021 	FERIADO MUNICIPAL                  	ES 	ALEGRE                             	3200201   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	ALEGRE                             	3200201   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	ES 	ALEGRE                             	3200201   
+MUNICIPAL 	02/04/2021 	FERIADO MUNICIPAL                  	ES 	ARACRUZ                            	3200607   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	ARACRUZ                            	3200607   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	ES 	ARACRUZ                            	3200607   
+MUNICIPAL 	02/04/2021 	FERIADO MUNICIPAL                  	ES 	BAIXO GUANDU                       	3200805   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	BAIXO GUANDU                       	3200805   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	ES 	BAIXO GUANDU                       	3200805   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	BARRA DE SAO FRANCISCO             	3200904   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	ES 	CACHOEIRO DE ITAPEMIRIM            	3201209   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	ES 	CACHOEIRO DE ITAPEMIRIM            	3201209   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	ES 	CARIACICA                          	3201308   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	ES 	CARIACICA                          	3201308   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	CASTELO                            	3201407   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	ES 	CASTELO                            	3201407   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	ES 	CASTELO                            	3201407   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	COLATINA                           	3201506   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	ES 	COLATINA                           	3201506   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	ES 	DOMINGOS MARTINS                   	3201902   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	DOMINGOS MARTINS                   	3201902   
+MUNICIPAL 	04/07/2021 	FERIADO RELIGIOSO                  	ES 	DOMINGOS MARTINS                   	3201902   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	ECOPORANGA                         	3202108   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	GUACUI                             	3202306   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	GUARAPARI                          	3202405   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	ES 	GUARAPARI                          	3202405   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	ES 	GUARAPARI                          	3202405   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	ITAPEMIRIM                         	3202801   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	ES 	ITAPEMIRIM                         	3202801   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	IUNA                               	3203007   
+MUNICIPAL 	31/05/2021 	FERIADO RELIGIOSO                  	ES 	IUNA                               	3203007   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	JAGUARE                            	3203056   
+MUNICIPAL 	16/09/2021 	FERIADO RELIGIOSO                  	ES 	JAGUARE                            	3203056   
+MUNICIPAL 	22/10/2021 	FERIADO RELIGIOSO                  	ES 	JAGUARE                            	3203056   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	LINHARES                           	3203205   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	ES 	LINHARES                           	3203205   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	ES 	MIMOSO DO SUL                      	3203403   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	MIMOSO DO SUL                      	3203403   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	MONTANHA                           	3203502   
+MUNICIPAL 	12/06/2021 	FERIADO RELIGIOSO                  	ES 	MONTANHA                           	3203502   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	ES 	MONTANHA                           	3203502   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	NOVA VENECIA                       	3203908   
+MUNICIPAL 	25/04/2021 	FERIADO RELIGIOSO                  	ES 	NOVA VENECIA                       	3203908   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	PEDRO CANARIO                      	3204054   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	ES 	PEDRO CANARIO                      	3204054   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	PINHEIROS                          	3204104   
+MUNICIPAL 	27/12/2021 	FERIADO RELIGIOSO                  	ES 	PINHEIROS                          	3204104   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	SANTA TERESA                       	3204609   
+MUNICIPAL 	15/10/2021 	FERIADO RELIGIOSO                  	ES 	SANTA TERESA                       	3204609   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	ES 	SANTA TERESA                       	3204609   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	SAO GABRIEL DA PALHA               	3204708   
+MUNICIPAL 	29/09/2021 	FERIADO MUNICIPAL                  	ES 	SAO GABRIEL DA PALHA               	3204708   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	SAO MATEUS                         	3204906   
+MUNICIPAL 	21/09/2021 	FERIADO RELIGIOSO                  	ES 	SAO MATEUS                         	3204906   
+MUNICIPAL 	27/12/2021 	FERIADO RELIGIOSO                  	ES 	SAO MATEUS                         	3204906   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	SERRA                              	3205002   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	ES 	SERRA                              	3205002   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	ES 	SERRA                              	3205002   
+MUNICIPAL 	12/04/2021 	FERIADO MUNICIPAL                  	ES 	SOORETAMA                          	3205010   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	ES 	VIANA                              	3205101   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	ES 	VIANA                              	3205101   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	ES 	VILA VELHA                         	3205200   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	ES 	VITORIA                            	3205309   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	ES 	VITORIA                            	3205309   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	GO 	ANICUNS                            	5201306   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	GO 	CAIAPONIA                          	5204409   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	GO 	CAIAPONIA                          	5204409   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	GO 	CAIAPONIA                          	5204409   
+MUNICIPAL 	01/08/2021 	FERIADO MUNICIPAL                  	GO 	FORMOSA                            	5208004   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	GO 	FORMOSA                            	5208004   
+MUNICIPAL 	30/11/2021 	FERIADO RELIGIOSO                  	GO 	FORMOSA                            	5208004   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	GO 	FORMOSA                            	5208004   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	GO 	GOIANIA                            	5208707   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	GO 	GOIATUBA                           	5209101   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	GO 	IPORA                              	5210208   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	GO 	ITUMBIARA                          	5211503   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	GO 	MORRINHOS                          	5213806   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	GO 	PADRE BERNARDO                     	5215603   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	GO 	PALMEIRAS DE GOIAS                 	5215702   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	GO 	PONTALINA                          	5217708   
+MUNICIPAL 	19/10/2021 	FERIADO RELIGIOSO                  	GO 	POSSE                              	5218300   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	GO 	QUIRINOPOLIS                       	5218508   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	GO 	RIO VERDE                          	5218805   
+MUNICIPAL 	18/05/2021 	DIA DO MUNICÍPIO                   	GO 	SANTA HELENA DE GOIAS              	5219308   
+MUNICIPAL 	18/08/2021 	FERIADO RELIGIOSO                  	GO 	SANTA HELENA DE GOIAS              	5219308   
+MUNICIPAL 	21/06/2021 	FERIADO RELIGIOSO                  	GO 	SAO LUIS DE MONTES BELOS           	5220108   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	GO 	SENADOR CANEDO                     	5220454   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	MA 	ACAILANDIA                         	2100055   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MA 	AMARANTE DO MARANHAO               	2100600   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	BACABAL                            	2101202   
+MUNICIPAL 	01/10/2021 	FERIADO RELIGIOSO                  	MA 	BACABAL                            	2101202   
+MUNICIPAL 	01/11/2021 	FERIADO MUNICIPAL                  	MA 	BACABAL                            	2101202   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MA 	BALSAS                             	2101400   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MA 	BALSAS                             	2101400   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	BARRA DO CORDA                     	2101608   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MA 	BARRA DO CORDA                     	2101608   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	MA 	BOM JARDIM                         	2102002   
+MUNICIPAL 	19/10/2021 	FERIADO RELIGIOSO                  	MA 	CAROLINA                           	2102804   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MA 	CARUTAPERA                         	2102903   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MA 	CAXIAS                             	2103000   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	CAXIAS                             	2103000   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MA 	CAXIAS                             	2103000   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MA 	CODO                               	2103307   
+MUNICIPAL 	10/08/2021 	FERIADO RELIGIOSO                  	MA 	CODO                               	2103307   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	COELHO NETO                        	2103406   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MA 	COELHO NETO                        	2103406   
+MUNICIPAL 	21/10/2021 	FERIADO RELIGIOSO                  	MA 	COROATA                            	2103604   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MA 	ESTREITO                           	2104057   
+MUNICIPAL 	27/06/2021 	FERIADO RELIGIOSO                  	MA 	GOVERNADOR NUNES FREIRE            	2104677   
+MUNICIPAL 	14/09/2021 	FERIADO RELIGIOSO                  	MA 	GRAJAU                             	2104800   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MA 	GRAJAU                             	2104800   
+MUNICIPAL 	15/10/2021 	FERIADO RELIGIOSO                  	MA 	IMPERATRIZ                         	2105302   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	MA 	ITINGA DO MARANHAO                 	2105427   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	MA 	PEDREIRAS                          	2108207   
+MUNICIPAL 	31/07/2021 	FERIADO RELIGIOSO                  	MA 	PINHEIRO                           	2108603   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MA 	PRESIDENTE DUTRA                   	2109106   
+MUNICIPAL 	21/01/2021 	FERIADO RELIGIOSO                  	MA 	SANTA INES                         	2109908   
+MUNICIPAL 	13/12/2021 	FERIADO RELIGIOSO                  	MA 	SANTA LUZIA                        	2110005   
+MUNICIPAL 	13/12/2021 	FERIADO RELIGIOSO                  	MA 	SANTA LUZIA DO PARUA               	2110039   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MA 	SAO DOMINGOS DO MARANHAO           	2110708   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MA 	SAO JOSE DE RIBAMAR                	2111201   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	SAO JOSE DE RIBAMAR                	2111201   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	SAO LUIS                           	2111300   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	MA 	SAO LUIS                           	2111300   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MA 	SAO LUIS                           	2111300   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MA 	TUTOIA                             	2112506   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	MA 	TUTOIA                             	2112506   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MA 	TUTOIA                             	2112506   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	ABAETE                             	3100203   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MG 	AGUAS FORMOSAS                     	3100906   
+MUNICIPAL 	15/07/2021 	FERIADO RELIGIOSO                  	MG 	AGUAS FORMOSAS                     	3100906   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	MG 	AIMORES                            	3101102   
+MUNICIPAL 	17/02/2021 	FERIADO MUNICIPAL                  	MG 	ALMENARA                           	3101706   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MG 	ALMENARA                           	3101706   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	ARACUAI                            	3103405   
+MUNICIPAL 	21/09/2021 	FERIADO RELIGIOSO                  	MG 	ARACUAI                            	3103405   
+MUNICIPAL 	08/08/2021 	FERIADO RELIGIOSO                  	MG 	ARAXA                              	3104007   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	ARAXA                              	3104007   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	MG 	ARCOS                              	3104205   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	ARCOS                              	3104205   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	BAMBUI                             	3105103   
+MUNICIPAL 	27/11/2021 	FERIADO RELIGIOSO                  	MG 	BAMBUI                             	3105103   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	BELO HORIZONTE                     	3106200   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	BELO HORIZONTE                     	3106200   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	MG 	BELO ORIENTE                       	3106309   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	MG 	BOM DESPACHO                       	3107406   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	BOM DESPACHO                       	3107406   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	MG 	BRASILIA DE MINAS                  	3108602   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	BRASILIA DE MINAS                  	3108602   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	BRASILIA DE MINAS                  	3108602   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MG 	CARAI                              	3113008   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	CARATINGA                          	3113404   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	CARLOS CHAGAS                      	3113701   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	CARMO DO PARANAIBA                 	3114303   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	MG 	CARMO DO PARANAIBA                 	3114303   
+MUNICIPAL 	22/05/2021 	FERIADO RELIGIOSO                  	MG 	CASSIA                             	3115102   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	CASSIA                             	3115102   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	CLAUDIO                            	3116605   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	CONCEICAO DAS ALAGOAS              	3117306   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MG 	CONSELHEIRO PENA                   	3118403   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	MG 	CORACAO DE JESUS                   	3118809   
+MUNICIPAL 	01/04/2021 	FERIADO MUNICIPAL                  	MG 	CORACAO DE JESUS                   	3118809   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	COROMANDEL                         	3119302   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	COROMANDEL                         	3119302   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	CORONEL FABRICIANO                 	3119401   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	CORONEL FABRICIANO                 	3119401   
+MUNICIPAL 	01/06/2021 	FERIADO RELIGIOSO                  	MG 	DIVINOPOLIS                        	3122306   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	DIVINOPOLIS                        	3122306   
+MUNICIPAL 	17/08/2021 	FERIADO RELIGIOSO                  	MG 	DORES DO INDAIA                    	3123205   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	MG 	DORES DO INDAIA                    	3123205   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	ESPINOSA                           	3124302   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	ESPINOSA                           	3124302   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	ESPINOSA                           	3124302   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	FORMIGA                            	3126109   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	MG 	FRUTAL                             	3127107   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	GOVERNADOR VALADARES               	3127701   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	IBIA                               	3129509   
+MUNICIPAL 	19/10/2021 	FERIADO RELIGIOSO                  	MG 	IBIA                               	3129509   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	IPATINGA                           	3131307   
+MUNICIPAL 	02/08/2021 	FERIADO RELIGIOSO                  	MG 	ITAMBACURI                         	3132701   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	MG 	ITAMBACURI                         	3132701   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MG 	ITAOBIM                            	3133303   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	MG 	ITAOBIM                            	3133303   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	ITAUNA                             	3133808   
+MUNICIPAL 	15/08/2021 	FERIADO MUNICIPAL                  	MG 	ITAUNA                             	3133808   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	JAIBA                              	3135050   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	JAIBA                              	3135050   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	MG 	JANAUBA                            	3135100   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	JANAUBA                            	3135100   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	JANUARIA                           	3135209   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	MG 	JANUARIA                           	3135209   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	MG 	JEQUITINHONHA                      	3135803   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	JOAO PINHEIRO                      	3136306   
+MUNICIPAL 	04/11/2021 	FERIADO RELIGIOSO                  	MG 	LAGOA DA PRATA                     	3137205   
+MUNICIPAL 	10/08/2021 	FERIADO RELIGIOSO                  	MG 	MANHUACU                           	3139409   
+MUNICIPAL 	13/05/2021 	FERIADO MUNICIPAL                  	MG 	MANHUMIRIM                         	3139508   
+MUNICIPAL 	14/09/2021 	FERIADO RELIGIOSO                  	MG 	MANHUMIRIM                         	3139508   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	MANTENA                            	3139607   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	MATEUS LEME                        	3140704   
+MUNICIPAL 	01/04/2021 	FERIADO MUNICIPAL                  	MG 	MONTE AZUL                         	3142908   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	MONTE AZUL                         	3142908   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	MONTE AZUL                         	3142908   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	MG 	MONTE SANTO DE MINAS               	3143203   
+MUNICIPAL 	17/06/2021 	FERIADO RELIGIOSO                  	MG 	MUTUM                              	3144003   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	MUTUM                              	3144003   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	NANUQUE                            	3144300   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	NOVA SERRANA                       	3145208   
+MUNICIPAL 	11/07/2021 	FERIADO RELIGIOSO                  	MG 	NOVO CRUZEIRO                      	3145307   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	OLIVEIRA                           	3145604   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	OLIVEIRA                           	3145604   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	MG 	PARA DE MINAS                      	3147105   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	PARA DE MINAS                      	3147105   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	PARACATU                           	3147006   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	PATOS DE MINAS                     	3148004   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	PATOS DE MINAS                     	3148004   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	PATROCINIO                         	3148103   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	MG 	PATROCINIO                         	3148103   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	PECANHA                            	3148608   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	PECANHA                            	3148608   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MG 	PEDRA AZUL                         	3148707   
+MUNICIPAL 	01/11/2021 	FERIADO MUNICIPAL                  	MG 	PEDRA AZUL                         	3148707   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	PEDRA AZUL                         	3148707   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	MG 	PIRAPORA                           	3151206   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	PITANGUI                           	3151404   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	PITANGUI                           	3151404   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	PIUMHI                             	3151503   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	PIUMHI                             	3151503   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	PONTE NOVA                         	3152105   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	MG 	PORTEIRINHA                        	3152204   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MG 	PORTEIRINHA                        	3152204   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	RAUL SOARES                        	3154002   
+MUNICIPAL 	01/04/2021 	FERIADO MUNICIPAL                  	MG 	RIO PARDO DE MINAS                 	3155603   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	RIO PARDO DE MINAS                 	3155603   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	RIO PARDO DE MINAS                 	3155603   
+MUNICIPAL 	31/05/2021 	FERIADO RELIGIOSO                  	MG 	SACRAMENTO                         	3156908   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	SACRAMENTO                         	3156908   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	SACRAMENTO                         	3156908   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	SALINAS                            	3157005   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	SALINAS                            	3157005   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	SANTA MARIA DO SUACUI              	3158201   
+MUNICIPAL 	21/09/2021 	FERIADO MUNICIPAL                  	MG 	SANTA MARIA DO SUACUI              	3158201   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	SANTO ANTONIO DO MONTE             	3160405   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	SANTO ANTONIO DO MONTE             	3160405   
+MUNICIPAL 	19/03/2021 	FERIADO MUNICIPAL                  	MG 	SAO FRANCISCO                      	3161106   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	SAO FRANCISCO                      	3161106   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	SAO GOTARDO                        	3162104   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	SAO GOTARDO                        	3162104   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	SAO JOAO DA PONTE                  	3162401   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MG 	SAO JOAO DO PARAISO                	3162708   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	MG 	SAO JOAO DO PARAISO                	3162708   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	MG 	SAO JOAO DO PARAISO                	3162708   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	SAO JOAO EVANGELISTA               	3162807   
+MUNICIPAL 	27/12/2021 	FERIADO RELIGIOSO                  	MG 	SAO JOAO EVANGELISTA               	3162807   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	MG 	SAO SEBASTIAO DO PARAISO           	3164704   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	MG 	TAIOBEIRAS                         	3168002   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	MG 	TAIOBEIRAS                         	3168002   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	MG 	TAIOBEIRAS                         	3168002   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MG 	TEOFILO OTONI                      	3168606   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	TEOFILO OTONI                      	3168606   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	TIMOTEO                            	3168705   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MG 	UBERABA                            	3170107   
+MUNICIPAL 	15/01/2021 	FERIADO MUNICIPAL                  	MG 	UNAI                               	3170404   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MG 	UNAI                               	3170404   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MG 	UNAI                               	3170404   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MG 	VARZEA DA PALMA                    	3170800   
+MUNICIPAL 	11/02/2021 	FERIADO RELIGIOSO                  	MS 	ANASTACIO                          	5000708   
+MUNICIPAL 	28/09/2021 	FERIADO MUNICIPAL                  	MS 	APARECIDA DO TABOADO               	5001003   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MS 	AQUIDAUANA                         	5001102   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MS 	BATAGUASSU                         	5001904   
+MUNICIPAL 	01/08/2021 	FERIADO RELIGIOSO                  	MS 	BELA VISTA                         	5002100   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	MS 	BELA VISTA                         	5002100   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MS 	BONITO                             	5002209   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MS 	CAMPO GRANDE                       	5002704   
+MUNICIPAL 	13/09/2021 	FERIADO RELIGIOSO                  	MS 	CASSILANDIA                        	5002902   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	MS 	CORUMBA                            	5003207   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MS 	COSTA RICA                         	5003256   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MS 	COXIM                              	5003306   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MS 	DOURADOS                           	5003702   
+MUNICIPAL 	25/01/2021 	FERIADO RELIGIOSO                  	MS 	IVINHEMA                           	5004700   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MS 	JARDIM                             	5005004   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	MS 	MIRANDA                            	5005608   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	MS 	PARANAIBA                          	5006309   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MS 	PONTA PORA                         	5006606   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	MS 	RIO VERDE DE MATO GROSSO           	5007406   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	MS 	SAO GABRIEL DO OESTE               	5007695   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	MS 	SIDROLANDIA                        	5007901   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	MT 	COLIDER                            	5103205   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	MT 	COLNIZA                            	5103254   
+MUNICIPAL 	07/10/2021 	FERIADO RELIGIOSO                  	MT 	GUARANTA DO NORTE                  	5104104   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MT 	ITAUBA                             	5104559   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	MT 	JUARA                              	5105101   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	MT 	JUINA                              	5105150   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	MT 	LUCAS DO RIO VERDE                 	5105259   
+MUNICIPAL 	25/07/2021 	FERIADO RELIGIOSO                  	MT 	MATUPA                             	5105606   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	MT 	SINOP                              	5107909   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	MT 	SORRISO                            	5107925   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	PA 	ALENQUER                           	1500404   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PA 	ALTAMIRA                           	1500602   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PA 	ITAITUBA                           	1503606   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	PA 	MONTE ALEGRE                       	1504802   
+MUNICIPAL 	13/12/2021 	FERIADO RELIGIOSO                  	PA 	NOVO PROGRESSO                     	1505031   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PA 	PORTO DE MOZ                       	1505908   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PA 	SANTAREM                           	1506807   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	PA 	URUARA                             	1508159   
+MUNICIPAL 	02/02/2021 	FERIADO MUNICIPAL                  	PB 	ALAGOA GRANDE                      	2500304   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	ALAGOA GRANDE                      	2500304   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	AREIA                              	2501104   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	AREIA                              	2501104   
+MUNICIPAL 	06/01/2021 	FERIADO MUNICIPAL                  	PB 	BANANEIRAS                         	2501500   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	BANANEIRAS                         	2501500   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	PB 	BAYEUX                             	2501807   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	BAYEUX                             	2501807   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	BAYEUX                             	2501807   
+MUNICIPAL 	10/06/2021 	FERIADO MUNICIPAL                  	PB 	CABEDELO                           	2503209   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	CABEDELO                           	2503209   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	CUITE                              	2505105   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	PB 	CUITE                              	2505105   
+MUNICIPAL 	24/09/2021 	FERIADO MUNICIPAL                  	PB 	CUITE                              	2505105   
+MUNICIPAL 	26/04/2021 	FERIADO MUNICIPAL                  	PB 	ESPERANCA                          	2506004   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	ESPERANCA                          	2506004   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	PB 	ESPERANCA                          	2506004   
+MUNICIPAL 	02/02/2021 	FERIADO MUNICIPAL                  	PB 	GUARABIRA                          	2506301   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	GUARABIRA                          	2506301   
+MUNICIPAL 	20/03/2021 	FERIADO MUNICIPAL                  	PB 	ITABAIANA                          	2506905   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	ITABAIANA                          	2506905   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	JOAO PESSOA                        	2507507   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	JOAO PESSOA                        	2507507   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	PB 	MARI                               	2509107   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	MARI                               	2509107   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	PB 	MARI                               	2509107   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	PEDRAS DE FOGO                     	2511202   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	PEDRAS DE FOGO                     	2511202   
+MUNICIPAL 	20/01/2021 	FERIADO MUNICIPAL                  	PB 	PICUI                              	2511400   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	PICUI                              	2511400   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	PB 	PICUI                              	2511400   
+MUNICIPAL 	22/05/2021 	FERIADO MUNICIPAL                  	PB 	RIO TINTO                          	2512903   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	RIO TINTO                          	2512903   
+MUNICIPAL 	22/05/2021 	FERIADO MUNICIPAL                  	PB 	SANTA RITA                         	2513703   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	SANTA RITA                         	2513703   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	SANTA RITA                         	2513703   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	SAPE                               	2515302   
+MUNICIPAL 	29/06/2021 	FERIADO MUNICIPAL                  	PB 	SAPE                               	2515302   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	PB 	SAPE                               	2515302   
+MUNICIPAL 	19/02/2021 	FERIADO MUNICIPAL                  	PB 	SOLANEA                            	2516003   
+MUNICIPAL 	13/06/2021 	FERIADO MUNICIPAL                  	PB 	SOLANEA                            	2516003   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	PB 	SOLANEA                            	2516003   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	ARARIPINA                          	2601102   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	ARARIPINA                          	2601102   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	BARREIROS                          	2601409   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	PE 	BARREIROS                          	2601409   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	BARREIROS                          	2601409   
+MUNICIPAL 	17/02/2021 	FERIADO RELIGIOSO                  	PE 	BELEM DE SAO FRANCISCO             	2601607   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	BELEM DE SAO FRANCISCO             	2601607   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	BELEM DE SAO FRANCISCO             	2601607   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PE 	BELO JARDIM                        	2601706   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	BELO JARDIM                        	2601706   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	BELO JARDIM                        	2601706   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PE 	BEZERROS                           	2601904   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	BEZERROS                           	2601904   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	BEZERROS                           	2601904   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PE 	BODOCO                             	2602001   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	CABROBO                            	2603009   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	PE 	CARPINA                            	2604007   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PE 	CARPINA                            	2604007   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	PE 	CARPINA                            	2604007   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	CARUARU                            	2604106   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	PE 	CARUARU                            	2604106   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	PE 	CARUARU                            	2604106   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	PE 	CUPIRA                             	2605004   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	CUPIRA                             	2605004   
+MUNICIPAL 	29/08/2021 	FERIADO RELIGIOSO                  	PE 	CUPIRA                             	2605004   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	PE 	ESCADA                             	2605202   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	ESCADA                             	2605202   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	ESCADA                             	2605202   
+MUNICIPAL 	14/01/2021 	FERIADO RELIGIOSO                  	PE 	EXU                                	2605301   
+MUNICIPAL 	01/11/2021 	FERIADO MUNICIPAL                  	PE 	EXU                                	2605301   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	FLORES                             	2605608   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	FLORES                             	2605608   
+MUNICIPAL 	11/12/2021 	FERIADO RELIGIOSO                  	PE 	FLORESTA                           	2605707   
+MUNICIPAL 	13/01/2021 	FERIADO RELIGIOSO                  	PE 	GRAVATA                            	2606408   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	GRAVATA                            	2606408   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PE 	GRAVATA                            	2606408   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	PE 	IPUBI                              	2607307   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	PE 	LAGOA GRANDE                       	2608750   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	LAGOA GRANDE                       	2608750   
+MUNICIPAL 	27/01/2021 	FERIADO RELIGIOSO                  	PE 	LIMOEIRO                           	2608909   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	LIMOEIRO                           	2608909   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	PE 	LIMOEIRO                           	2608909   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	NAZARE DA MATA                     	2609501   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	NAZARE DA MATA                     	2609501   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PE 	OURICURI                           	2609907   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	OURICURI                           	2609907   
+MUNICIPAL 	16/07/2021 	FERIADO MUNICIPAL                  	PE 	OURICURI                           	2609907   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	PE 	PETROLANDIA                        	2611002   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	PETROLINA                          	2611101   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	PE 	PETROLINA                          	2611101   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	RIBEIRAO                           	2611804   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PE 	RIBEIRAO                           	2611804   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	PE 	SAO BENTO DO UNA                   	2613008   
+MUNICIPAL 	07/01/2021 	FERIADO RELIGIOSO                  	PE 	SAO BENTO DO UNA                   	2613008   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	PE 	SAO JOAQUIM DO MONTE               	2613305   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	SAO JOAQUIM DO MONTE               	2613305   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PE 	SAO JOAQUIM DO MONTE               	2613305   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	PE 	SAO JOSE DO BELMONTE               	2613503   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	PE 	SERRA TALHADA                      	2613909   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PE 	SURUBIM                            	2614501   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PE 	SURUBIM                            	2614501   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	PE 	TACARATU                           	2614808   
+MUNICIPAL 	03/05/2021 	FERIADO RELIGIOSO                  	PE 	TACARATU                           	2614808   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	PE 	TIMBAUBA                           	2615300   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PE 	TIMBAUBA                           	2615300   
+MUNICIPAL 	17/02/2021 	FERIADO RELIGIOSO                  	PE 	TRINDADE                           	2615607   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	TRINDADE                           	2615607   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	PE 	TRINDADE                           	2615607   
+MUNICIPAL 	17/01/2021 	FERIADO RELIGIOSO                  	PE 	VITORIA DE SANTO ANTAO             	2616407   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PE 	VITORIA DE SANTO ANTAO             	2616407   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PR 	ANDIRA                             	4101101   
+MUNICIPAL 	14/09/2021 	DIA DO MUNICÍPIO                   	PR 	ANDIRA                             	4101101   
+MUNICIPAL 	28/01/2021 	DIA DO MUNICÍPIO                   	PR 	APUCARANA                          	4101408   
+MUNICIPAL 	11/02/2021 	FERIADO RELIGIOSO                  	PR 	APUCARANA                          	4101408   
+MUNICIPAL 	10/10/2021 	DIA DO MUNICÍPIO                   	PR 	ARAPONGAS                          	4101507   
+MUNICIPAL 	12/10/2021 	FERIADO RELIGIOSO                  	PR 	ARAPONGAS                          	4101507   
+MUNICIPAL 	25/03/2021 	FERIADO RELIGIOSO                  	PR 	ARAPOTI                            	4101606   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PR 	ARAPOTI                            	4101606   
+MUNICIPAL 	18/12/2021 	DIA DO MUNICÍPIO                   	PR 	ARAPOTI                            	4101606   
+MUNICIPAL 	04/01/2021 	DIA DO MUNICÍPIO                   	PR 	ASTORGA                            	4102109   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PR 	ASTORGA                            	4102109   
+MUNICIPAL 	01/10/2021 	FERIADO RELIGIOSO                  	PR 	BANDEIRANTES                       	4102406   
+MUNICIPAL 	14/11/2021 	DIA DO MUNICÍPIO                   	PR 	BANDEIRANTES                       	4102406   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PR 	BANDEIRANTES                       	4102406   
+MUNICIPAL 	31/05/2021 	FERIADO RELIGIOSO                  	PR 	CAMBARA                            	4103602   
+MUNICIPAL 	21/09/2021 	DIA DO MUNICÍPIO                   	PR 	CAMBARA                            	4103602   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	PR 	CAMBE                              	4103701   
+MUNICIPAL 	11/10/2021 	DIA DO MUNICÍPIO                   	PR 	CAMBE                              	4103701   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PR 	CAMPO MOURAO                       	4104303   
+MUNICIPAL 	19/10/2021 	DIA DO MUNICÍPIO                   	PR 	CAMPO MOURAO                       	4104303   
+MUNICIPAL 	19/03/2021 	DIA DO MUNICÍPIO                   	PR 	CASTRO                             	4104907   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PR 	CASTRO                             	4104907   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	PR 	CIANORTE                           	4105508   
+MUNICIPAL 	26/07/2021 	DIA DO MUNICÍPIO                   	PR 	CIANORTE                           	4105508   
+MUNICIPAL 	29/03/2021 	DIA DO MUNICÍPIO                   	PR 	COLORADO                           	4105904   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	PR 	COLORADO                           	4105904   
+MUNICIPAL 	04/01/2021 	FERIADO RELIGIOSO                  	PR 	CORNELIO PROCOPIO                  	4106407   
+MUNICIPAL 	15/02/2021 	DIA DO MUNICÍPIO                   	PR 	CORNELIO PROCOPIO                  	4106407   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	PR 	CRUZEIRO DO OESTE                  	4106605   
+MUNICIPAL 	26/08/2021 	DIA DO MUNICÍPIO                   	PR 	CRUZEIRO DO OESTE                  	4106605   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	PR 	GOIOERE                            	4108601   
+MUNICIPAL 	09/08/2021 	DIA DO MUNICÍPIO                   	PR 	GOIOERE                            	4108601   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	PR 	GUARAPUAVA                         	4109401   
+MUNICIPAL 	09/12/2021 	DIA DO MUNICÍPIO                   	PR 	GUARAPUAVA                         	4109401   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	PR 	IBAITI                             	4109708   
+MUNICIPAL 	09/11/2021 	DIA DO MUNICÍPIO                   	PR 	IBAITI                             	4109708   
+MUNICIPAL 	03/05/2021 	DIA DO MUNICÍPIO                   	PR 	IMBITUVA                           	4110102   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	PR 	IMBITUVA                           	4110102   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	PR 	IMBITUVA                           	4110102   
+MUNICIPAL 	15/07/2021 	DIA DO MUNICÍPIO                   	PR 	IRATI                              	4110706   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	PR 	IRATI                              	4110706   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	PR 	IVAIPORA                           	4111506   
+MUNICIPAL 	19/11/2021 	DIA DO MUNICÍPIO                   	PR 	IVAIPORA                           	4111506   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PR 	JACAREZINHO                        	4111803   
+MUNICIPAL 	02/04/2021 	DIA DO MUNICÍPIO                   	PR 	JACAREZINHO                        	4111803   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	PR 	JAGUARIAIVA                        	4112009   
+MUNICIPAL 	15/09/2021 	DIA DO MUNICÍPIO                   	PR 	JAGUARIAIVA                        	4112009   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PR 	LARANJEIRAS DO SUL                 	4113304   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	PR 	LARANJEIRAS DO SUL                 	4113304   
+MUNICIPAL 	30/11/2021 	DIA DO MUNICÍPIO                   	PR 	LARANJEIRAS DO SUL                 	4113304   
+MUNICIPAL 	12/10/2021 	FERIADO RELIGIOSO                  	PR 	LOANDA                             	4113502   
+MUNICIPAL 	27/11/2021 	DIA DO MUNICÍPIO                   	PR 	LOANDA                             	4113502   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	PR 	LONDRINA                           	4113700   
+MUNICIPAL 	10/12/2021 	DIA DO MUNICÍPIO                   	PR 	LONDRINA                           	4113700   
+MUNICIPAL 	06/05/2021 	DIA DO MUNICÍPIO                   	PR 	MANDAGUARI                         	4114203   
+MUNICIPAL 	12/10/2021 	FERIADO RELIGIOSO                  	PR 	MANDAGUARI                         	4114203   
+MUNICIPAL 	10/05/2021 	DIA DO MUNICÍPIO                   	PR 	MARINGA                            	4115200   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	PR 	MARINGA                            	4115200   
+MUNICIPAL 	02/01/2021 	DIA DO MUNICÍPIO                   	PR 	NOVA ESPERANCA                     	4116901   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	PR 	NOVA ESPERANCA                     	4116901   
+MUNICIPAL 	04/08/2021 	FERIADO RELIGIOSO                  	PR 	PAICANDU                           	4117503   
+MUNICIPAL 	19/11/2021 	DIA DO MUNICÍPIO                   	PR 	PAICANDU                           	4117503   
+MUNICIPAL 	07/04/2021 	DIA DO MUNICÍPIO                   	PR 	PALMEIRA                           	4117701   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	PR 	PALMEIRA                           	4117701   
+MUNICIPAL 	04/01/2021 	DIA DO MUNICÍPIO                   	PR 	PARANAVAI                          	4118402   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	PR 	PARANAVAI                          	4118402   
+MUNICIPAL 	15/12/2021 	DIA DO MUNICÍPIO                   	PR 	PINHAO                             	4119301   
+MUNICIPAL 	28/01/2021 	DIA DO MUNICÍPIO                   	PR 	PITANGA                            	4119608   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PR 	PITANGA                            	4119608   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	PR 	PITANGA                            	4119608   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	PR 	PONTA GROSSA                       	4119905   
+MUNICIPAL 	15/09/2021 	DIA DO MUNICÍPIO                   	PR 	PONTA GROSSA                       	4119905   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	PR 	PRUDENTOPOLIS                      	4120606   
+MUNICIPAL 	12/08/2021 	DIA DO MUNICÍPIO                   	PR 	PRUDENTOPOLIS                      	4120606   
+MUNICIPAL 	12/11/2021 	FERIADO RELIGIOSO                  	PR 	PRUDENTOPOLIS                      	4120606   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	PR 	RIO NEGRO                          	4122305   
+MUNICIPAL 	28/01/2021 	DIA DO MUNICÍPIO                   	PR 	ROLANDIA                           	4122404   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	PR 	ROLANDIA                           	4122404   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	PR 	SANTO ANTONIO DA PLATINA           	4124103   
+MUNICIPAL 	20/08/2021 	DIA DO MUNICÍPIO                   	PR 	SANTO ANTONIO DA PLATINA           	4124103   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	PR 	SAO MATEUS DO SUL                  	4125605   
+MUNICIPAL 	21/09/2021 	DIA DO MUNICÍPIO                   	PR 	SAO MATEUS DO SUL                  	4125605   
+MUNICIPAL 	05/03/2021 	FERIADO RELIGIOSO                  	PR 	TELEMACO BORBA                     	4127106   
+MUNICIPAL 	21/03/2021 	DIA DO MUNICÍPIO                   	PR 	TELEMACO BORBA                     	4127106   
+MUNICIPAL 	27/06/2021 	FERIADO RELIGIOSO                  	PR 	TELEMACO BORBA                     	4127106   
+MUNICIPAL 	26/06/2021 	DIA DO MUNICÍPIO                   	PR 	UMUARAMA                           	4128104   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	PR 	UMUARAMA                           	4128104   
+MUNICIPAL 	27/03/2021 	DIA DO MUNICÍPIO                   	PR 	UNIAO DA VITORIA                   	4128203   
+MUNICIPAL 	11/06/2021 	FERIADO RELIGIOSO                  	PR 	UNIAO DA VITORIA                   	4128203   
+MUNICIPAL 	05/04/2021 	FERIADO RELIGIOSO                  	RJ 	ANGRA DOS REIS                     	3300100   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	RJ 	ANGRA DOS REIS                     	3300100   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RJ 	ARARUAMA                           	3300209   
+MUNICIPAL 	10/03/2021 	FERIADO RELIGIOSO                  	RJ 	BARRA DO PIRAI                     	3300308   
+MUNICIPAL 	26/07/2021 	FERIADO MUNICIPAL                  	RJ 	BARRA DO PIRAI                     	3300308   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RJ 	BARRA MANSA                        	3300407   
+MUNICIPAL 	15/01/2021 	FERIADO RELIGIOSO                  	RJ 	CAMPOS DOS GOYTACAZES              	3301009   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	RJ 	CAMPOS DOS GOYTACAZES              	3301009   
+MUNICIPAL 	04/02/2021 	FERIADO RELIGIOSO                  	RJ 	ITAOCARA                           	3302106   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	RJ 	ITATIAIA                           	3302254   
+MUNICIPAL 	23/04/2021 	FERIADO RELIGIOSO                  	RJ 	MARICA                             	3302700   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	RJ 	MIGUEL PEREIRA                     	3302908   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	RJ 	MIGUEL PEREIRA                     	3302908   
+MUNICIPAL 	23/04/2021 	FERIADO RELIGIOSO                  	RJ 	PARATY                             	3303807   
+MUNICIPAL 	08/09/2021 	FERIADO MUNICIPAL                  	RJ 	PARATY                             	3303807   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	RJ 	PIRAI                              	3304003   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RJ 	RESENDE                            	3304201   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RJ 	RIO DE JANEIRO                     	3304557   
+MUNICIPAL 	23/04/2021 	FERIADO RELIGIOSO                  	RJ 	RIO DE JANEIRO                     	3304557   
+MUNICIPAL 	10/01/2021 	FERIADO RELIGIOSO                  	RJ 	SAO GONCALO                        	3304904   
+MUNICIPAL 	23/04/2021 	FERIADO RELIGIOSO                  	RJ 	SAO GONCALO                        	3304904   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	RJ 	VALENCA                            	3306107   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	RJ 	VOLTA REDONDA                      	3306305   
+MUNICIPAL 	17/07/2021 	FERIADO RELIGIOSO                  	RJ 	VOLTA REDONDA                      	3306305   
+MUNICIPAL 	17/06/2021 	DIA DO MUNICÍPIO                   	RO 	ALTA FLORESTA D OESTE              	1100015   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	RO 	ALTA FLORESTA D OESTE              	1100015   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	RO 	ARIQUEMES                          	1100023   
+MUNICIPAL 	29/07/2021 	FERIADO RELIGIOSO                  	RO 	BURITIS                            	1100452   
+MUNICIPAL 	27/12/2021 	DIA DO MUNICÍPIO                   	RO 	BURITIS                            	1100452   
+MUNICIPAL 	26/11/2021 	DIA DO MUNICÍPIO                   	RO 	CACOAL                             	1100049   
+MUNICIPAL 	16/06/2021 	DIA DO MUNICÍPIO                   	RO 	COLORADO DO OESTE                  	1100064   
+MUNICIPAL 	16/06/2021 	DIA DO MUNICÍPIO                   	RO 	ESPIGAO D OESTE                    	1100098   
+MUNICIPAL 	10/04/2021 	DIA DO MUNICÍPIO                   	RO 	GUAJARA-MIRIM                      	1100106   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RO 	GUAJARA-MIRIM                      	1100106   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	RO 	JARU                               	1100114   
+MUNICIPAL 	07/11/2021 	DIA DO MUNICÍPIO                   	RO 	JARU                               	1100114   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	RO 	JI-PARANA                          	1100122   
+MUNICIPAL 	22/11/2021 	DIA DO MUNICÍPIO                   	RO 	JI-PARANA                          	1100122   
+MUNICIPAL 	11/05/2021 	DIA DO MUNICÍPIO                   	RO 	MACHADINHO D OESTE                 	1100130   
+MUNICIPAL 	19/06/2021 	DIA DO MUNICÍPIO                   	RO 	NOVA BRASILANDIA D OESTE           	1100148   
+MUNICIPAL 	16/06/2021 	DIA DO MUNICÍPIO                   	RO 	OURO PRETO DO OESTE                	1100155   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	RO 	PIMENTA BUENO                      	1100189   
+MUNICIPAL 	24/11/2021 	DIA DO MUNICÍPIO                   	RO 	PIMENTA BUENO                      	1100189   
+MUNICIPAL 	24/01/2021 	DIA DO MUNICÍPIO                   	RO 	PORTO VELHO                        	1100205   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	RO 	PORTO VELHO                        	1100205   
+MUNICIPAL 	16/06/2021 	DIA DO MUNICÍPIO                   	RO 	PRESIDENTE MEDICI                  	1100254   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	RO 	PRESIDENTE MEDICI                  	1100254   
+MUNICIPAL 	05/08/2021 	DIA DO MUNICÍPIO                   	RO 	ROLIM DE MOURA                     	1100288   
+MUNICIPAL 	06/07/2021 	DIA DO MUNICÍPIO                   	RO 	SAO MIGUEL DO GUAPORE              	1100320   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	RO 	SAO MIGUEL DO GUAPORE              	1100320   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	RO 	VILHENA                            	1100304   
+MUNICIPAL 	23/11/2021 	DIA DO MUNICÍPIO                   	RO 	VILHENA                            	1100304   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RR 	BOA VISTA                          	1400100   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	RR 	BOA VISTA                          	1400100   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RR 	BOA VISTA                          	1400100   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RR 	CARACARAI                          	1400209   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	RR 	CARACARAI                          	1400209   
+MUNICIPAL 	24/09/2021 	FERIADO MUNICIPAL                  	RR 	CARACARAI                          	1400209   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	RR 	RORAINOPOLIS                       	1400472   
+MUNICIPAL 	17/09/2021 	DIA DO MUNICÍPIO                   	RS 	ALVORADA                           	4300604   
+MUNICIPAL 	09/10/2021 	FERIADO MUNICIPAL                  	RS 	BUTIA                              	4302709   
+MUNICIPAL 	04/12/2021 	FERIADO RELIGIOSO                  	RS 	BUTIA                              	4302709   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	RS 	CACAPAVA DO SUL                    	4302808   
+MUNICIPAL 	25/10/2021 	DIA DO MUNICÍPIO                   	RS 	CACAPAVA DO SUL                    	4302808   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	RS 	CACEQUI                            	4302907   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	CACEQUI                            	4302907   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	CACHOEIRA DO SUL                   	4303004   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	CACHOEIRINHA                       	4303103   
+MUNICIPAL 	15/05/2021 	FERIADO MUNICIPAL                  	RS 	CACHOEIRINHA                       	4303103   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	CANOAS                             	4304606   
+MUNICIPAL 	13/10/2021 	DIA DO MUNICÍPIO                   	RS 	CERRO LARGO                        	4305207   
+MUNICIPAL 	16/08/2021 	DIA DO MUNICÍPIO                   	RS 	CRUZ ALTA                          	4306106   
+MUNICIPAL 	19/03/2021 	FERIADO MUNICIPAL                  	RS 	ERECHIM                            	4307005   
+MUNICIPAL 	28/02/2021 	DIA DO MUNICÍPIO                   	RS 	ESTEIO                             	4307708   
+MUNICIPAL 	22/08/2021 	FERIADO RELIGIOSO                  	RS 	ESTEIO                             	4307708   
+MUNICIPAL 	28/02/2021 	DIA DO MUNICÍPIO                   	RS 	FREDERICO WESTPHALEN               	4308508   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	RS 	FREDERICO WESTPHALEN               	4308508   
+MUNICIPAL 	28/01/2021 	DIA DO MUNICÍPIO                   	RS 	GIRUA                              	4309001   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	RS 	GIRUA                              	4309001   
+MUNICIPAL 	02/08/2021 	FERIADO MUNICIPAL                  	RS 	GRAVATAI                           	4309209   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	GUAIBA                             	4309308   
+MUNICIPAL 	14/10/2021 	FERIADO RELIGIOSO                  	RS 	GUAIBA                             	4309308   
+MUNICIPAL 	28/02/2021 	DIA DO MUNICÍPIO                   	RS 	HORIZONTINA                        	4309605   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	HORIZONTINA                        	4309605   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	RS 	IBIRUBA                            	4310009   
+MUNICIPAL 	28/02/2021 	DIA DO MUNICÍPIO                   	RS 	IJUI                               	4310207   
+MUNICIPAL 	19/10/2021 	DIA DO MUNICÍPIO                   	RS 	IJUI                               	4310207   
+MUNICIPAL 	14/07/2021 	FERIADO MUNICIPAL                  	RS 	JULIO DE CASTILHOS                 	4311205   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	RS 	MONTENEGRO                         	4312401   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	MONTENEGRO                         	4312401   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	RS 	OSORIO                             	4313508   
+MUNICIPAL 	06/05/2021 	DIA DO MUNICÍPIO                   	RS 	PALMEIRA DAS MISSOES               	4313706   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	RS 	PALMEIRA DAS MISSOES               	4313706   
+MUNICIPAL 	28/02/2021 	DIA DO MUNICÍPIO                   	RS 	PANAMBI                            	4313904   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	RS 	PANAMBI                            	4313904   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	PORTO ALEGRE                       	4314902   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	PORTO LUCENA                       	4315008   
+MUNICIPAL 	06/08/2021 	DIA DO MUNICÍPIO                   	RS 	PORTO LUCENA                       	4315008   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	PORTO LUCENA                       	4315008   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	RIO PARDO                          	4315701   
+MUNICIPAL 	07/10/2021 	DIA DO MUNICÍPIO                   	RS 	RIO PARDO                          	4315701   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	RIO PARDO                          	4315701   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	RS 	SANTA CRUZ DO SUL                  	4316808   
+MUNICIPAL 	17/05/2021 	DIA DO MUNICÍPIO                   	RS 	SANTA MARIA                        	4316907   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	SANTA MARIA                        	4316907   
+MUNICIPAL 	10/08/2021 	DIA DO MUNICÍPIO                   	RS 	SANTA ROSA                         	4317202   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	SANTA ROSA                         	4317202   
+MUNICIPAL 	04/01/2021 	DIA DO MUNICÍPIO                   	RS 	SANTIAGO                           	4317400   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	SANTIAGO                           	4317400   
+MUNICIPAL 	22/03/2021 	DIA DO MUNICÍPIO                   	RS 	SANTO ANGELO                       	4317509   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	RS 	SANTO ANTONIO DA PATRULHA          	4317608   
+MUNICIPAL 	30/09/2021 	FERIADO MUNICIPAL                  	RS 	SAO JERONIMO                       	4318408   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	RS 	SAO JERONIMO                       	4318408   
+MUNICIPAL 	03/06/2021 	DIA DO MUNICÍPIO                   	RS 	SAO LUIZ GONZAGA                   	4318903   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RS 	SAO SEBASTIAO DO CAI               	4319505   
+MUNICIPAL 	03/12/2021 	FERIADO RELIGIOSO                  	RS 	SOBRADINHO                         	4320701   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	RS 	TAQUARI                            	4321303   
+MUNICIPAL 	04/07/2021 	DIA DO MUNICÍPIO                   	RS 	TAQUARI                            	4321303   
+MUNICIPAL 	24/05/2021 	FERIADO MUNICIPAL                  	RS 	TEUTONIA                           	4321451   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	TEUTONIA                           	4321451   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	RS 	TORRES                             	4321501   
+MUNICIPAL 	21/05/2021 	DIA DO MUNICÍPIO                   	RS 	TORRES                             	4321501   
+MUNICIPAL 	08/08/2021 	FERIADO RELIGIOSO                  	RS 	TORRES                             	4321501   
+MUNICIPAL 	03/05/2021 	DIA DO MUNICÍPIO                   	RS 	TRES DE MAIO                       	4321808   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	RS 	TRES DE MAIO                       	4321808   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	RS 	TRES PASSOS                        	4321907   
+MUNICIPAL 	28/12/2021 	DIA DO MUNICÍPIO                   	RS 	TRES PASSOS                        	4321907   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	TUPANCIRETA                        	4322202   
+MUNICIPAL 	21/12/2021 	DIA DO MUNICÍPIO                   	RS 	TUPANCIRETA                        	4322202   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	RS 	VENANCIO AIRES                     	4322608   
+MUNICIPAL 	14/09/2021 	DIA DO MUNICÍPIO                   	RS 	VIAMAO                             	4323002   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	RS 	VIAMAO                             	4323002   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SC 	ALFREDO WAGNER                     	4200705   
+MUNICIPAL 	31/10/2021 	FERIADO RELIGIOSO                  	SC 	ALFREDO WAGNER                     	4200705   
+MUNICIPAL 	29/12/2021 	DIA DO MUNICÍPIO                   	SC 	ALFREDO WAGNER                     	4200705   
+MUNICIPAL 	17/05/2021 	DIA DO MUNICÍPIO                   	SC 	BIGUACU                            	4202305   
+MUNICIPAL 	03/05/2021 	FERIADO RELIGIOSO                  	SC 	CANOINHAS                          	4203808   
+MUNICIPAL 	12/09/2021 	FERIADO MUNICIPAL                  	SC 	CANOINHAS                          	4203808   
+MUNICIPAL 	11/06/2021 	FERIADO MUNICIPAL                  	SC 	CURITIBANOS                        	4204806   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SC 	CURITIBANOS                        	4204806   
+MUNICIPAL 	23/03/2021 	FERIADO MUNICIPAL                  	SC 	FLORIANOPOLIS                      	4205407   
+MUNICIPAL 	28/08/2021 	FERIADO MUNICIPAL                  	SC 	GUARAMIRIM                         	4206504   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SC 	IMBITUBA                           	4207304   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SC 	ITAPEMA                            	4208302   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SC 	ITAPEMA                            	4208302   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SC 	ITAPEMA                            	4208302   
+MUNICIPAL 	25/07/2021 	FERIADO MUNICIPAL                  	SC 	JARAGUA DO SUL                     	4208906   
+MUNICIPAL 	09/03/2021 	FERIADO MUNICIPAL                  	SC 	JOINVILLE                          	4209102   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SC 	LAGES                              	4209300   
+MUNICIPAL 	08/09/2021 	FERIADO MUNICIPAL                  	SC 	MAFRA                              	4210100   
+MUNICIPAL 	24/04/2021 	DIA DO MUNICÍPIO                   	SC 	PALHOCA                            	4211900   
+MUNICIPAL 	23/09/2021 	FERIADO MUNICIPAL                  	SC 	SAO BENTO DO SUL                   	4215802   
+MUNICIPAL 	15/04/2021 	FERIADO MUNICIPAL                  	SC 	SAO FRANCISCO DO SUL               	4216206   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SC 	SAO FRANCISCO DO SUL               	4216206   
+MUNICIPAL 	03/05/2021 	DIA DO MUNICÍPIO                   	SC 	SAO JOAQUIM                        	4216503   
+MUNICIPAL 	19/03/2021 	DIA DO MUNICÍPIO                   	SC 	SAO JOSE                           	4216602   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SC 	TIJUCAS                            	4218004   
+MUNICIPAL 	13/06/2021 	DIA DO MUNICÍPIO                   	SC 	TIJUCAS                            	4218004   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	ADAMANTINA                         	3500105   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	ADAMANTINA                         	3500105   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	AGUAI                              	3500303   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	AGUAI                              	3500303   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	ALVARES MACHADO                    	3501301   
+MUNICIPAL 	30/11/2021 	FERIADO RELIGIOSO                  	SP 	ALVARES MACHADO                    	3501301   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	AMERICANA                          	3501608   
+MUNICIPAL 	21/11/2021 	FERIADO MUNICIPAL                  	SP 	AMERICANA                          	3501608   
+MUNICIPAL 	21/03/2021 	DIA DO MUNICÍPIO                   	SP 	AMERICO BRASILIENSE                	3501707   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	AMPARO                             	3501905   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	ANDRADINA                          	3502101   
+MUNICIPAL 	11/07/2021 	DIA DO MUNICÍPIO                   	SP 	ANDRADINA                          	3502101   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ANDRADINA                          	3502101   
+MUNICIPAL 	12/04/2021 	FERIADO RELIGIOSO                  	SP 	APARECIDA                          	3502507   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	APARECIDA                          	3502507   
+MUNICIPAL 	17/12/2021 	DIA DO MUNICÍPIO                   	SP 	APARECIDA                          	3502507   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	APIAI                              	3502705   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	APIAI                              	3502705   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ARACATUBA                          	3502804   
+MUNICIPAL 	02/12/2021 	FERIADO MUNICIPAL                  	SP 	ARACATUBA                          	3502804   
+MUNICIPAL 	22/08/2021 	DIA DO MUNICÍPIO                   	SP 	ARARAQUARA                         	3503208   
+MUNICIPAL 	22/11/2021 	FERIADO MUNICIPAL                  	SP 	ARARAQUARA                         	3503208   
+MUNICIPAL 	10/04/2021 	FERIADO MUNICIPAL                  	SP 	ARTUR NOGUEIRA                     	3503802   
+MUNICIPAL 	01/07/2021 	DIA DO MUNICÍPIO                   	SP 	ASSIS                              	3504008   
+MUNICIPAL 	25/08/2021 	DIA DO MUNICÍPIO                   	SP 	BARRETOS                           	3505500   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	BARUERI                            	3505708   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	BARUERI                            	3505708   
+MUNICIPAL 	18/06/2021 	DIA DO MUNICÍPIO                   	SP 	BASTOS                             	3505807   
+MUNICIPAL 	03/12/2021 	FERIADO RELIGIOSO                  	SP 	BASTOS                             	3505807   
+MUNICIPAL 	03/05/2021 	DIA DO MUNICÍPIO                   	SP 	BEBEDOURO                          	3506102   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	BEBEDOURO                          	3506102   
+MUNICIPAL 	19/05/2021 	DIA DO MUNICÍPIO                   	SP 	BERTIOGA                           	3506359   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	BERTIOGA                           	3506359   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	BERTIOGA                           	3506359   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	SP 	BIRIGUI                            	3506508   
+MUNICIPAL 	05/05/2021 	DIA DO MUNICÍPIO                   	SP 	BIRITIBA-MIRIM                     	3506607   
+MUNICIPAL 	05/10/2021 	FERIADO RELIGIOSO                  	SP 	BIRITIBA-MIRIM                     	3506607   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	BIRITIBA-MIRIM                     	3506607   
+MUNICIPAL 	16/08/2021 	FERIADO RELIGIOSO                  	SP 	BOITUVA                            	3507001   
+MUNICIPAL 	06/09/2021 	FERIADO RELIGIOSO                  	SP 	BOITUVA                            	3507001   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	BRAGANCA PAULISTA                  	3507605   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	CABREUVA                           	3508405   
+MUNICIPAL 	14/04/2021 	DIA DO MUNICÍPIO                   	SP 	CACAPAVA                           	3508504   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	CACAPAVA                           	3508504   
+MUNICIPAL 	09/03/2021 	DIA DO MUNICÍPIO                   	SP 	CACHOEIRA PAULISTA                 	3508603   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	CACHOEIRA PAULISTA                 	3508603   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	CACHOEIRA PAULISTA                 	3508603   
+MUNICIPAL 	19/05/2021 	DIA DO MUNICÍPIO                   	SP 	CAJATI                             	3509254   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	CAJATI                             	3509254   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	CAJURU                             	3509403   
+MUNICIPAL 	11/07/2021 	FERIADO RELIGIOSO                  	SP 	CAJURU                             	3509403   
+MUNICIPAL 	18/08/2021 	DIA DO MUNICÍPIO                   	SP 	CAJURU                             	3509403   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	CAMPINAS                           	3509502   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	CAMPINAS                           	3509502   
+MUNICIPAL 	07/10/2021 	FERIADO RELIGIOSO                  	SP 	CAMPO LIMPO PAULISTA               	3509601   
+MUNICIPAL 	29/04/2021 	FERIADO MUNICIPAL                  	SP 	CAMPOS DO JORDAO                   	3509700   
+MUNICIPAL 	01/10/2021 	FERIADO RELIGIOSO                  	SP 	CAMPOS DO JORDAO                   	3509700   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	CANDIDO MOTA                       	3510005   
+MUNICIPAL 	26/10/2021 	DIA DO MUNICÍPIO                   	SP 	CANDIDO MOTA                       	3510005   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	CAPAO BONITO                       	3510203   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	CAPIVARI                           	3510401   
+MUNICIPAL 	20/04/2021 	FERIADO MUNICIPAL                  	SP 	CARAGUATATUBA                      	3510500   
+MUNICIPAL 	16/06/2021 	FERIADO RELIGIOSO                  	SP 	CARAGUATATUBA                      	3510500   
+MUNICIPAL 	26/03/2021 	DIA DO MUNICÍPIO                   	SP 	CARAPICUIBA                        	3510609   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	CARAPICUIBA                        	3510609   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	CARAPICUIBA                        	3510609   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	CASA BRANCA                        	3510807   
+MUNICIPAL 	25/10/2021 	FERIADO MUNICIPAL                  	SP 	CASA BRANCA                        	3510807   
+MUNICIPAL 	13/04/2021 	DIA DO MUNICÍPIO                   	SP 	CATANDUVA                          	3511102   
+MUNICIPAL 	08/08/2021 	FERIADO RELIGIOSO                  	SP 	CATANDUVA                          	3511102   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	CERQUILHO                          	3511508   
+MUNICIPAL 	03/04/2021 	DIA DO MUNICÍPIO                   	SP 	CERQUILHO                          	3511508   
+MUNICIPAL 	09/04/2021 	FERIADO MUNICIPAL                  	SP 	CONCHAL                            	3512209   
+MUNICIPAL 	30/11/2021 	FERIADO MUNICIPAL                  	SP 	COSMOPOLIS                         	3512803   
+MUNICIPAL 	02/04/2021 	DIA DO MUNICÍPIO                   	SP 	COTIA                              	3513009   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	COTIA                              	3513009   
+MUNICIPAL 	02/10/2021 	DIA DO MUNICÍPIO                   	SP 	CRUZEIRO                           	3513405   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	CRUZEIRO                           	3513405   
+MUNICIPAL 	09/04/2021 	DIA DO MUNICÍPIO                   	SP 	CUBATAO                            	3513504   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	CUBATAO                            	3513504   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	CUBATAO                            	3513504   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	CUNHA                              	3513603   
+MUNICIPAL 	05/04/2021 	FERIADO RELIGIOSO                  	SP 	CUNHA                              	3513603   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	CUNHA                              	3513603   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	DESCALVADO                         	3513702   
+MUNICIPAL 	09/09/2021 	DIA DO MUNICÍPIO                   	SP 	DESCALVADO                         	3513702   
+MUNICIPAL 	08/12/2021 	DIA DO MUNICÍPIO                   	SP 	DRACENA                            	3514403   
+MUNICIPAL 	13/12/2021 	FERIADO RELIGIOSO                  	SP 	ESPIRITO SANTO DO PINHAL           	3515186   
+MUNICIPAL 	27/12/2021 	FERIADO MUNICIPAL                  	SP 	ESPIRITO SANTO DO PINHAL           	3515186   
+MUNICIPAL 	22/05/2021 	DIA DO MUNICÍPIO                   	SP 	FERNANDOPOLIS                      	3515509   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	FRANCO DA ROCHA                    	3516408   
+MUNICIPAL 	05/05/2021 	DIA DO MUNICÍPIO                   	SP 	GARCA                              	3516705   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	GARCA                              	3516705   
+MUNICIPAL 	15/09/2021 	DIA DO MUNICÍPIO                   	SP 	GENERAL SALGADO                    	3516903   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	GENERAL SALGADO                    	3516903   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SP 	GUAIRA                             	3517406   
+MUNICIPAL 	18/05/2021 	DIA DO MUNICÍPIO                   	SP 	GUAIRA                             	3517406   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	GUAPIARA                           	3517604   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	GUARARAPES                         	3518206   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	GUARARAPES                         	3518206   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	SP 	GUARARAPES                         	3518206   
+MUNICIPAL 	19/03/2021 	FERIADO MUNICIPAL                  	SP 	GUARAREMA                          	3518305   
+MUNICIPAL 	05/04/2021 	FERIADO RELIGIOSO                  	SP 	GUARATINGUETA                      	3518404   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	GUARATINGUETA                      	3518404   
+MUNICIPAL 	25/10/2021 	FERIADO RELIGIOSO                  	SP 	GUARATINGUETA                      	3518404   
+MUNICIPAL 	21/09/2021 	DIA DO MUNICÍPIO                   	SP 	GUARIBA                            	3518602   
+MUNICIPAL 	15/01/2021 	FERIADO RELIGIOSO                  	SP 	GUARUJA                            	3518701   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	GUARUJA                            	3518701   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	GUARULHOS                          	3518800   
+MUNICIPAL 	08/12/2021 	DIA DO MUNICÍPIO                   	SP 	GUARULHOS                          	3518800   
+MUNICIPAL 	19/05/2021 	DIA DO MUNICÍPIO                   	SP 	HORTOLANDIA                        	3519071   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	HORTOLANDIA                        	3519071   
+MUNICIPAL 	24/06/2021 	DIA DO MUNICÍPIO                   	SP 	IBATE                              	3519303   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	IBATE                              	3519303   
+MUNICIPAL 	04/07/2021 	DIA DO MUNICÍPIO                   	SP 	IBITINGA                           	3519600   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	IBITINGA                           	3519600   
+MUNICIPAL 	05/08/2021 	FERIADO RELIGIOSO                  	SP 	IGUAPE                             	3520301   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	IGUAPE                             	3520301   
+MUNICIPAL 	03/12/2021 	FERIADO MUNICIPAL                  	SP 	IGUAPE                             	3520301   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	SP 	ILHA SOLTEIRA                      	3520442   
+MUNICIPAL 	15/10/2021 	FERIADO MUNICIPAL                  	SP 	ILHA SOLTEIRA                      	3520442   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ILHA SOLTEIRA                      	3520442   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SP 	INDAIATUBA                         	3520509   
+MUNICIPAL 	22/04/2021 	FERIADO MUNICIPAL                  	SP 	ITANHAEM                           	3522109   
+MUNICIPAL 	09/06/2021 	FERIADO MUNICIPAL                  	SP 	ITANHAEM                           	3522109   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ITANHAEM                           	3522109   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	ITANHAEM                           	3522109   
+MUNICIPAL 	05/11/2021 	FERIADO RELIGIOSO                  	SP 	ITAPETININGA                       	3522307   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	SP 	ITAPEVA                            	3522406   
+MUNICIPAL 	20/09/2021 	FERIADO RELIGIOSO                  	SP 	ITAPEVA                            	3522406   
+MUNICIPAL 	18/02/2021 	DIA DO MUNICÍPIO                   	SP 	ITAPEVI                            	3522505   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ITAPEVI                            	3522505   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	SP 	ITAPIRA                            	3522604   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	ITAPIRA                            	3522604   
+MUNICIPAL 	24/10/2021 	FERIADO MUNICIPAL                  	SP 	ITAPIRA                            	3522604   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	ITAPOLIS                           	3522703   
+MUNICIPAL 	20/10/2021 	DIA DO MUNICÍPIO                   	SP 	ITAPOLIS                           	3522703   
+MUNICIPAL 	08/09/2021 	DIA DO MUNICÍPIO                   	SP 	ITAQUAQUECETUBA                    	3523107   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	ITAQUAQUECETUBA                    	3523107   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	ITARARE                            	3523206   
+MUNICIPAL 	28/08/2021 	FERIADO RELIGIOSO                  	SP 	ITARARE                            	3523206   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	ITARARE                            	3523206   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	ITATIBA                            	3523404   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SP 	ITU                                	3523909   
+MUNICIPAL 	16/07/2021 	DIA DO MUNICÍPIO                   	SP 	JABOTICABAL                        	3524303   
+MUNICIPAL 	03/04/2021 	FERIADO MUNICIPAL                  	SP 	JACAREI                            	3524402   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	JACAREI                            	3524402   
+MUNICIPAL 	15/04/2021 	DIA DO MUNICÍPIO                   	SP 	JALES                              	3524808   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	JALES                              	3524808   
+MUNICIPAL 	16/07/2021 	FERIADO RELIGIOSO                  	SP 	JARINU                             	3525201   
+MUNICIPAL 	24/06/2021 	DIA DO MUNICÍPIO                   	SP 	JOSE BONIFACIO                     	3525706   
+MUNICIPAL 	15/09/2021 	FERIADO MUNICIPAL                  	SP 	JOSE BONIFACIO                     	3525706   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	JUNDIAI                            	3525904   
+MUNICIPAL 	17/06/2021 	FERIADO RELIGIOSO                  	SP 	LEME                               	3526704   
+MUNICIPAL 	29/08/2021 	FERIADO MUNICIPAL                  	SP 	LEME                               	3526704   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	LEME                               	3526704   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	LINS                               	3527108   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	SP 	LINS                               	3527108   
+MUNICIPAL 	25/10/2021 	FERIADO MUNICIPAL                  	SP 	LINS                               	3527108   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	LORENA                             	3527207   
+MUNICIPAL 	14/11/2021 	DIA DO MUNICÍPIO                   	SP 	LORENA                             	3527207   
+MUNICIPAL 	04/04/2021 	DIA DO MUNICÍPIO                   	SP 	MARILIA                            	3529005   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	SP 	MARILIA                            	3529005   
+MUNICIPAL 	13/06/2021 	DIA DO MUNICÍPIO                   	SP 	MARTINOPOLIS                       	3529203   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	MARTINOPOLIS                       	3529203   
+MUNICIPAL 	02/12/2021 	FERIADO RELIGIOSO                  	SP 	MARTINOPOLIS                       	3529203   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	MATAO                              	3529302   
+MUNICIPAL 	27/08/2021 	DIA DO MUNICÍPIO                   	SP 	MATAO                              	3529302   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	MAUA                               	3529401   
+MUNICIPAL 	08/12/2021 	DIA DO MUNICÍPIO                   	SP 	MAUA                               	3529401   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	MIRACATU                           	3529906   
+MUNICIPAL 	30/11/2021 	DIA DO MUNICÍPIO                   	SP 	MIRACATU                           	3529906   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	SP 	MIRANDOPOLIS                       	3530102   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	MIRASSOL                           	3530300   
+MUNICIPAL 	08/09/2021 	DIA DO MUNICÍPIO                   	SP 	MIRASSOL                           	3530300   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	SP 	MOCOCA                             	3530508   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	MOCOCA                             	3530508   
+MUNICIPAL 	05/04/2021 	FERIADO MUNICIPAL                  	SP 	MOCOCA                             	3530508   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	MOCOCA                             	3530508   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	SP 	MOGI DAS CRUZES                    	3530607   
+MUNICIPAL 	01/09/2021 	DIA DO MUNICÍPIO                   	SP 	MOGI DAS CRUZES                    	3530607   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	MOGI DAS CRUZES                    	3530607   
+MUNICIPAL 	09/04/2021 	FERIADO MUNICIPAL                  	SP 	MOGI GUACU                         	3530706   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	MOGI GUACU                         	3530706   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	MOGI GUACU                         	3530706   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	MOGI MIRIM                         	3530805   
+MUNICIPAL 	22/10/2021 	FERIADO MUNICIPAL                  	SP 	MOGI MIRIM                         	3530805   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	MONGAGUA                           	3531100   
+MUNICIPAL 	07/12/2021 	DIA DO MUNICÍPIO                   	SP 	MONGAGUA                           	3531100   
+MUNICIPAL 	15/05/2021 	DIA DO MUNICÍPIO                   	SP 	MONTE ALTO                         	3531308   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	MONTE ALTO                         	3531308   
+MUNICIPAL 	10/03/2021 	DIA DO MUNICÍPIO                   	SP 	MONTE APRAZIVEL                    	3531407   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	MONTE APRAZIVEL                    	3531407   
+MUNICIPAL 	06/01/2021 	DIA DO MUNICÍPIO                   	SP 	MORRO AGUDO                        	3531902   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	MORRO AGUDO                        	3531902   
+MUNICIPAL 	06/01/2021 	FERIADO RELIGIOSO                  	SP 	NHANDEARA                          	3532603   
+MUNICIPAL 	24/06/2021 	DIA DO MUNICÍPIO                   	SP 	NHANDEARA                          	3532603   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	NOVA ODESSA                        	3533403   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	NOVA ODESSA                        	3533403   
+MUNICIPAL 	02/03/2021 	DIA DO MUNICÍPIO                   	SP 	OLIMPIA                            	3533908   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	OLIMPIA                            	3533908   
+MUNICIPAL 	19/02/2021 	DIA DO MUNICÍPIO                   	SP 	OSASCO                             	3534401   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	OSASCO                             	3534401   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	OSVALDO CRUZ                       	3534609   
+MUNICIPAL 	06/06/2021 	DIA DO MUNICÍPIO                   	SP 	OSVALDO CRUZ                       	3534609   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	OURINHOS                           	3534708   
+MUNICIPAL 	13/12/2021 	DIA DO MUNICÍPIO                   	SP 	OURINHOS                           	3534708   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	PALMITAL                           	3535309   
+MUNICIPAL 	21/04/2021 	DIA DO MUNICÍPIO                   	SP 	PALMITAL                           	3535309   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	PALMITAL                           	3535309   
+MUNICIPAL 	12/03/2021 	DIA DO MUNICÍPIO                   	SP 	PARAGUACU PAULISTA                 	3535507   
+MUNICIPAL 	09/07/2021 	FERIADO RELIGIOSO                  	SP 	PARAGUACU PAULISTA                 	3535507   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	SP 	PEDREIRA                           	3537107   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	PEDREIRA                           	3537107   
+MUNICIPAL 	11/08/2021 	FERIADO MUNICIPAL                  	SP 	PEREIRA BARRETO                    	3537404   
+MUNICIPAL 	03/12/2021 	FERIADO RELIGIOSO                  	SP 	PEREIRA BARRETO                    	3537404   
+MUNICIPAL 	18/02/2021 	DIA DO MUNICÍPIO                   	SP 	PERUIBE                            	3537602   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	PERUIBE                            	3537602   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	PERUIBE                            	3537602   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	PIEDADE                            	3537800   
+MUNICIPAL 	06/08/2021 	FERIADO RELIGIOSO                  	SP 	PILAR DO SUL                       	3537909   
+MUNICIPAL 	05/04/2021 	FERIADO RELIGIOSO                  	SP 	PINDAMONHANGABA                    	3538006   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	PINDAMONHANGABA                    	3538006   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	PIRACICABA                         	3538709   
+MUNICIPAL 	20/01/2021 	DIA DO MUNICÍPIO                   	SP 	PIRAJU                             	3538808   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	PIRAJUI                            	3538907   
+MUNICIPAL 	29/03/2021 	DIA DO MUNICÍPIO                   	SP 	PIRAJUI                            	3538907   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	PIRAJUI                            	3538907   
+MUNICIPAL 	06/08/2021 	FERIADO MUNICIPAL                  	SP 	PIRASSUNUNGA                       	3539301   
+MUNICIPAL 	08/12/2021 	FERIADO MUNICIPAL                  	SP 	PIRASSUNUNGA                       	3539301   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	PITANGUEIRAS                       	3539509   
+MUNICIPAL 	27/07/2021 	DIA DO MUNICÍPIO                   	SP 	PITANGUEIRAS                       	3539509   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	PORTO FELIZ                        	3540606   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	PORTO FERREIRA                     	3540705   
+MUNICIPAL 	29/07/2021 	FERIADO MUNICIPAL                  	SP 	PORTO FERREIRA                     	3540705   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	PRAIA GRANDE                       	3541000   
+MUNICIPAL 	27/03/2021 	DIA DO MUNICÍPIO                   	SP 	PRESIDENTE EPITACIO                	3541307   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	PRESIDENTE EPITACIO                	3541307   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	PRESIDENTE EPITACIO                	3541307   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	PRESIDENTE PRUDENTE                	3541406   
+MUNICIPAL 	14/09/2021 	DIA DO MUNICÍPIO                   	SP 	PRESIDENTE PRUDENTE                	3541406   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	PRESIDENTE PRUDENTE                	3541406   
+MUNICIPAL 	13/05/2021 	FERIADO RELIGIOSO                  	SP 	PRESIDENTE VENCESLAU               	3541505   
+MUNICIPAL 	02/09/2021 	DIA DO MUNICÍPIO                   	SP 	PRESIDENTE VENCESLAU               	3541505   
+MUNICIPAL 	29/11/2021 	FERIADO MUNICIPAL                  	SP 	PROMISSAO                          	3541604   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SP 	RANCHARIA                          	3542206   
+MUNICIPAL 	13/06/2021 	FERIADO RELIGIOSO                  	SP 	RANCHARIA                          	3542206   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	RANCHARIA                          	3542206   
+MUNICIPAL 	30/11/2021 	DIA DO MUNICÍPIO                   	SP 	REGISTRO                           	3542602   
+MUNICIPAL 	03/12/2021 	FERIADO RELIGIOSO                  	SP 	REGISTRO                           	3542602   
+MUNICIPAL 	19/03/2021 	DIA DO MUNICÍPIO                   	SP 	RIBEIRAO PIRES                     	3543303   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	RIBEIRAO PIRES                     	3543303   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	RIBEIRAO PRETO                     	3543402   
+MUNICIPAL 	19/06/2021 	FERIADO RELIGIOSO                  	SP 	RIBEIRAO PRETO                     	3543402   
+MUNICIPAL 	02/02/2021 	FERIADO RELIGIOSO                  	SP 	ROSANA                             	3544251   
+MUNICIPAL 	05/11/2021 	DIA DO MUNICÍPIO                   	SP 	ROSANA                             	3544251   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	SALTO                              	3545209   
+MUNICIPAL 	24/06/2021 	FERIADO RELIGIOSO                  	SP 	SALTO DE PIRAPORA                  	3545308   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SANTA BARBARA D OESTE              	3545803   
+MUNICIPAL 	04/12/2021 	FERIADO RELIGIOSO                  	SP 	SANTA BARBARA D OESTE              	3545803   
+MUNICIPAL 	03/05/2021 	FERIADO MUNICIPAL                  	SP 	SANTA CRUZ DAS PALMEIRAS           	3546306   
+MUNICIPAL 	14/09/2021 	FERIADO RELIGIOSO                  	SP 	SANTA CRUZ DAS PALMEIRAS           	3546306   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SANTA CRUZ DAS PALMEIRAS           	3546306   
+MUNICIPAL 	20/01/2021 	DIA DO MUNICÍPIO                   	SP 	SANTA CRUZ DO RIO PARDO            	3546405   
+MUNICIPAL 	13/05/2021 	FERIADO MUNICIPAL                  	SP 	SANTA CRUZ DO RIO PARDO            	3546405   
+MUNICIPAL 	24/06/2021 	DIA DO MUNICÍPIO                   	SP 	SANTA FE DO SUL                    	3546603   
+MUNICIPAL 	04/07/2021 	FERIADO MUNICIPAL                  	SP 	SANTA ISABEL                       	3546801   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	SP 	SANTANA DE PARNAIBA                	3547304   
+MUNICIPAL 	14/11/2021 	FERIADO RELIGIOSO                  	SP 	SANTANA DE PARNAIBA                	3547304   
+MUNICIPAL 	22/01/2021 	FERIADO RELIGIOSO                  	SP 	SANTO ANASTACIO                    	3547700   
+MUNICIPAL 	19/11/2021 	DIA DO MUNICÍPIO                   	SP 	SANTO ANASTACIO                    	3547700   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	SANTO ANASTACIO                    	3547700   
+MUNICIPAL 	08/04/2021 	DIA DO MUNICÍPIO                   	SP 	SANTO ANDRE                        	3547809   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SANTO ANDRE                        	3547809   
+MUNICIPAL 	26/01/2021 	FERIADO MUNICIPAL                  	SP 	SANTOS                             	3548500   
+MUNICIPAL 	08/09/2021 	FERIADO RELIGIOSO                  	SP 	SANTOS                             	3548500   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SANTOS                             	3548500   
+MUNICIPAL 	28/07/2021 	DIA DO MUNICÍPIO                   	SP 	SAO CAETANO DO SUL                 	3548807   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SAO CAETANO DO SUL                 	3548807   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	SAO CARLOS                         	3548906   
+MUNICIPAL 	07/11/2021 	DIA DO MUNICÍPIO                   	SP 	SAO CARLOS                         	3548906   
+MUNICIPAL 	24/06/2021 	FERIADO MUNICIPAL                  	SP 	SAO JOAO DA BOA VISTA              	3549102   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SAO JOAO DA BOA VISTA              	3549102   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	SAO JOSE DO RIO PARDO              	3549706   
+MUNICIPAL 	15/08/2021 	FERIADO MUNICIPAL                  	SP 	SAO JOSE DO RIO PARDO              	3549706   
+MUNICIPAL 	19/03/2021 	DIA DO MUNICÍPIO                   	SP 	SAO JOSE DO RIO PRETO              	3549805   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	SAO JOSE DO RIO PRETO              	3549805   
+MUNICIPAL 	19/03/2021 	FERIADO RELIGIOSO                  	SP 	SAO JOSE DOS CAMPOS                	3549904   
+MUNICIPAL 	27/07/2021 	FERIADO MUNICIPAL                  	SP 	SAO JOSE DOS CAMPOS                	3549904   
+MUNICIPAL 	29/09/2021 	FERIADO RELIGIOSO                  	SP 	SAO MIGUEL ARCANJO                 	3550209   
+MUNICIPAL 	25/01/2021 	DIA DO MUNICÍPIO                   	SP 	SAO PAULO                          	3550308   
+MUNICIPAL 	22/02/2021 	FERIADO RELIGIOSO                  	SP 	SAO PEDRO                          	3550407   
+MUNICIPAL 	16/08/2021 	DIA DO MUNICÍPIO                   	SP 	SAO ROQUE                          	3550605   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	SAO SEBASTIAO                      	3550704   
+MUNICIPAL 	16/03/2021 	FERIADO MUNICIPAL                  	SP 	SAO SEBASTIAO                      	3550704   
+MUNICIPAL 	22/01/2021 	FERIADO MUNICIPAL                  	SP 	SAO VICENTE                        	3551009   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SAO VICENTE                        	3551009   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	SOCORRO                            	3552106   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	SOROCABA                           	3552205   
+MUNICIPAL 	26/07/2021 	FERIADO RELIGIOSO                  	SP 	SUMARE                             	3552403   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SUMARE                             	3552403   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	SUZANO                             	3552502   
+MUNICIPAL 	02/04/2021 	DIA DO MUNICÍPIO                   	SP 	SUZANO                             	3552502   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	SUZANO                             	3552502   
+MUNICIPAL 	16/06/2021 	FERIADO RELIGIOSO                  	SP 	TAMBAU                             	3553302   
+MUNICIPAL 	20/08/2021 	FERIADO MUNICIPAL                  	SP 	TAMBAU                             	3553302   
+MUNICIPAL 	04/07/2021 	DIA DO MUNICÍPIO                   	SP 	TANABI                             	3553401   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	TANABI                             	3553401   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	TAQUARITINGA                       	3553708   
+MUNICIPAL 	16/08/2021 	DIA DO MUNICÍPIO                   	SP 	TAQUARITINGA                       	3553708   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	TATUI                              	3554003   
+MUNICIPAL 	05/04/2021 	FERIADO RELIGIOSO                  	SP 	TAUBATE                            	3554102   
+MUNICIPAL 	04/10/2021 	FERIADO RELIGIOSO                  	SP 	TAUBATE                            	3554102   
+MUNICIPAL 	05/12/2021 	DIA DO MUNICÍPIO                   	SP 	TAUBATE                            	3554102   
+MUNICIPAL 	21/03/2021 	DIA DO MUNICÍPIO                   	SP 	TEODORO SAMPAIO                    	3554300   
+MUNICIPAL 	27/06/2021 	FERIADO RELIGIOSO                  	SP 	TEODORO SAMPAIO                    	3554300   
+MUNICIPAL 	08/03/2021 	DIA DO MUNICÍPIO                   	SP 	TIETE                              	3554508   
+MUNICIPAL 	29/06/2021 	DIA DO MUNICÍPIO                   	SP 	TUPA                               	3555000   
+MUNICIPAL 	12/10/2021 	FERIADO RELIGIOSO                  	SP 	TUPA                               	3555000   
+MUNICIPAL 	29/06/2021 	FERIADO RELIGIOSO                  	SP 	UBATUBA                            	3555406   
+MUNICIPAL 	14/09/2021 	FERIADO MUNICIPAL                  	SP 	UBATUBA                            	3555406   
+MUNICIPAL 	28/10/2021 	DIA DO MUNICÍPIO                   	SP 	UBATUBA                            	3555406   
+MUNICIPAL 	20/01/2021 	FERIADO RELIGIOSO                  	SP 	VALINHOS                           	3556206   
+MUNICIPAL 	20/11/2021 	FERIADO MUNICIPAL                  	SP 	VALINHOS                           	3556206   
+MUNICIPAL 	24/05/2021 	FERIADO RELIGIOSO                  	SP 	VALPARAISO                         	3556305   
+MUNICIPAL 	30/05/2021 	FERIADO MUNICIPAL                  	SP 	VALPARAISO                         	3556305   
+MUNICIPAL 	15/08/2021 	FERIADO RELIGIOSO                  	SP 	VALPARAISO                         	3556305   
+MUNICIPAL 	27/11/2021 	FERIADO RELIGIOSO                  	SP 	VARGEM GRANDE PAULISTA             	3556453   
+MUNICIPAL 	15/09/2021 	FERIADO RELIGIOSO                  	SP 	VARZEA PAULISTA                    	3556503   
+MUNICIPAL 	08/12/2021 	FERIADO RELIGIOSO                  	SP 	VOTORANTIM                         	3557006   
+MUNICIPAL 	08/08/2021 	DIA DO MUNICÍPIO                   	SP 	VOTUPORANGA                        	3557105   
